@@ -10,6 +10,7 @@
 * [1.3\(B\) MACOS下安装VSCode](01/1.3b-macos-xia-an-zhuang-vscode.md)
 * [1.4 VSCode 语言切换](01/1.4-vscode-yu-yan-qie-huan.md)
 * [1.5 VSCode 基础操作](01/1.5-vscode-ji-chu-cao-zuo.md)
+* [1.6 HTML基础文件讲解](01/1.6-html-ji-chu-wen-jian-jiang-jie.md)
 
 ---
 
