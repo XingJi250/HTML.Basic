@@ -10,7 +10,10 @@
 * [1.3\(B\) MACOS下安装VSCode](01-basic/1.3b-download-under-macos.md)
 * [1.4 VSCode 语言切换](01-basic/1.4-change-language-for-vscode.md)
 * [1.5 VSCode 基础操作](01-basic/1.5-vscode-basic.md)
-* [1.6 HTML基础文件讲解](01-basic/1.6-html-files.md)
+
+## 第二章 HTML基础
+
+* [2.1 HTML基础文件讲解](di-er-zhang-html-ji-chu/2.1-html-basic-file.md)
 
 ---
 
